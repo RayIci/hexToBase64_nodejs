@@ -1,0 +1,15 @@
+{
+  "name": "hex_to_base64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "esercizio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node esercizio.js"
+  },
+  "author": "Alex Valle",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0"
+  }
+}
